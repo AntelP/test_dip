@@ -234,7 +234,7 @@ const RecipeEdit = ({ onEdit }) => {
               })
             }}
           >
-            Добавить ингредиент
+            ингредиент
           </div>
         </div>
         <div className={styles.cookingTime}>
